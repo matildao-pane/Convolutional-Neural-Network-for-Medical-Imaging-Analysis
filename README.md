@@ -1,8 +1,4 @@
-# Convolutional-Neural-Network-for-Medical-Imaging-Analysis
-
-## Abnormality detection in mammography
-### Antonio Acquavia
-### Matilde Mazzini
+# Convolutional Neural Network for Medical Imaging Analysis - Abnormality detection in mammography
 
 Group project for the Computational Intelligence and Deep Learning course at University of Pisa.
 
