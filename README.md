@@ -2,11 +2,7 @@
 
 Group project for the Computational Intelligence and Deep Learning course at University of Pisa.
 
-The aim of this project is to solve, using deep neural networks, two breast
-cancer classification problems:
-
-- Benignant-Malignant classification
-- Mass-Calcification classification
+Breast Cancer abnormalities diagnosis and classification using deep neural networks.
 
 Dataset used: 
 
