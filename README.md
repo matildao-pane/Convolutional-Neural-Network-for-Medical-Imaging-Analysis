@@ -4,10 +4,12 @@ Group project for the Computational Intelligence and Deep Learning course at Uni
 
 The aim of this project is to solve, using deep neural networks, two breast
 cancer classification problems:
-• Benignant-Malignant classification
-• Mass-Calcification classification
 
-Dataset used:  modified CBIS DDSM (Curated Breast Imaging Subset of
+- Benignant-Malignant classification
+- Mass-Calcification classification
+
+Dataset used: 
+Modified CBIS DDSM (Curated Breast Imaging Subset of
 Digital Database for Screening Mammography).
 
 
